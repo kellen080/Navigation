@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/klchang/catkin_rtabmap_drone_example/devel_isolated/rosaria/lib/python2.7/dist-packages",
+        "/home/klchang/catkin_rtabmap_drone_example/devel_isolated/mavros/lib/python2.7/dist-packages",
+        "/home/klchang/catkin_rtabmap_drone_example/devel_isolated/mavros_msgs/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/klchang/catkin_rtabmap_drone_example/devel_isolated/rosaria/lib/python2.7/dist-packages",
+        "/home/klchang/catkin_rtabmap_drone_example/devel_isolated/mavros/lib/python2.7/dist-packages",
+        "/home/klchang/catkin_rtabmap_drone_example/devel_isolated/mavros_msgs/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

@@ -1,0 +1,9 @@
+mavros/*.swp
+mavros/*~
+mavros/*.pyc
+mavros/core
+mavros/.vscode/
+
+# generated
+mavros/libmavconn/include/mavconn/mavlink_dialect.h
+mavros/libmavconn/src/mavlink_helpers.cpp

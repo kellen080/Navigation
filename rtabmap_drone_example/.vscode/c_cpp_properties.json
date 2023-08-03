@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/klchang/catkin_rtabmap_drone_example/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/klchang/catkin_rtabmap_drone_example/src/mavros/libmavconn/include/**",
+        "/home/klchang/Firmware/Tools/sitl_gazebo/include/**",
+        "/home/klchang/catkin_rtabmap_drone_example/src/mavros/mavros/include/**",
+        "/home/klchang/catkin_rtabmap_drone_example/src/mavros/mavros_msgs/include/**",
+        "/home/klchang/catkin_rtabmap_drone_example/src/realsense_gazebo_plugin/include/**",
+        "/home/klchang/catkin_rtabmap_drone_example/src/mavros/test_mavros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
